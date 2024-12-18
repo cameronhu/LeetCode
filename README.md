@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode progress
+
+Storage repository for all LeetCode practice!
